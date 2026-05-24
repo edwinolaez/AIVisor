@@ -12,6 +12,107 @@ Built for hackathon demo with **Business**, **Computer Science**, and **Engineer
 - **Co-op & Career** — Stage-appropriate checklists and job search resources
 - **Ask AIVisor** — OpenAI-powered chat with full student context (fallback mode without API key)
 
+## Business Model Canvas
+
+### 1. Problem
+
+Post-secondary students often feel overwhelmed when planning their academic path. Many students are unsure which courses to take, how electives connect to their future goals, what soft skills they should build, or what steps to follow if they want to switch programs. Students also struggle to find co-op and internship resources that are actually connected to their program.
+
+Advisors are helpful, but they can be busy or hard to access quickly. Online information is also scattered across school websites, ALIS, career pages, program calendars, and job resources. AIVisor solves this by bringing academic planning, career guidance, and student support into one personalized tool.
+
+### 2. Customer Segments
+
+AIVisor is designed for Alberta post-secondary students, especially:
+
+- Students entering college or university
+- Students already in a program who need a clearer roadmap
+- Students thinking about switching programs
+- Students preparing for co-op, internships, or future careers
+- Students who want guidance before meeting an advisor
+
+Our demo focuses on students in Business, Computer Science, Engineering, Nursing, and Psychology.
+
+### 3. Unique Value Proposition
+
+AIVisor gives students a personalized academic and career roadmap based on their program, year, goals, and interests.
+
+Instead of giving generic advice, AIVisor helps students understand what steps to take next, what skills to build, what resources to use, and how their current program connects to their future plans.
+
+
+### 4. Solution
+
+AIVisor provides four main tools:
+
+- **Program Roadmap:** Creates a semester-by-semester path with courses, milestones, electives, and graduation planning.
+- **Soft Skills Coach:** Suggests program-specific skills, activities, clubs, projects, and habits that help students grow outside the classroom.
+- **Program Switch Support:** Helps students compare programs, understand possible credit transfer, and see a new roadmap if they change direction.
+- **Co-op / Internship Prep:** Gives students checklists, timelines, resume tips, networking advice, and field-specific preparation steps.
+
+The app also includes an AI chat feature where students can ask questions using their own academic context.
+
+### 5. Channels
+
+AIVisor could reach students through:
+
+- University and college advising offices
+- Student orientation events
+- School websites and student portals
+- Career centres
+- Campus clubs
+- Social media
+- Hackathons and student innovation events
+
+### 6. Revenue Streams
+
+Possible future revenue models include:
+
+- Free basic student version
+- Premium AI roadmap and planning features
+- Partnerships with universities, colleges, and advising departments
+- Institutional subscriptions for student support services
+- Career preparation tools for co-op and internship programs
+
+### 7. Key Metrics
+
+AIVisor’s success can be measured by:
+
+- Number of students who complete onboarding
+- Number of roadmaps generated
+- Number of students using the switch-program tool
+- Number of students using co-op and internship resources
+- Student satisfaction with their roadmap
+- Repeat usage over time
+
+### 8. Competitive Advantage
+
+AIVisor is different because it is not just a chatbot or a basic course planner. It combines academic roadmaps, soft-skill development, program switching support, and career preparation in one place.
+
+It is also built around real student pain points: confusion, scattered resources, overloaded advisors, and uncertainty about the future. By connecting students to trusted resources like ALIS and Transfer Alberta, AIVisor gives guidance that feels both personalized and practical.
+
+### 9. Future Opportunities
+
+In the future, AIVisor could expand by adding:
+
+- More Alberta schools and programs
+- Saved student profiles
+- Progress tracking
+- Calendar reminders
+- PDF roadmap exports
+- Real program catalog integration
+- Advisor booking links
+- More career and labour-market data
+
+
+
+
+
+
+
+
+
+
+
+
 ## Quick Start
 
 ### 1. Install dependencies
