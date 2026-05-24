@@ -51,7 +51,7 @@ AIVisor provides four main tools:
 The app also includes an AI chat feature where students can ask questions using their own academic context.
 
 
-##5. Why AIVisor Matters
+Why AIVisor Matters
 
 AIVisor solves a real student pain point: many post-secondary students are making expensive, stressful decisions about programs, courses, careers, and skills without a clear personalized roadmap. Alberta’s publicly funded post-secondary system serves a large student population, so even a small improvement in student guidance can have a meaningful impact (Government of Alberta, n.d.). The need is clear: Statistics Canada found that about 19% of employed post-secondary graduates — almost 1 in 5 — were not working in a job related to their program, showing that many students need stronger support connecting education to career outcomes (Statistics Canada, 2020). This confusion also exists in a stressful student environment, with national survey data showing high levels of anxiety, depression, and loneliness among Canadian post-secondary students (American College Health Association, 2019; McCall MacBain Foundation, 2024). AIVisor responds to this by giving students one clear place to plan their academic path, explore program switching, build soft skills, and prepare for co-op or future careers — directly supporting the same outcomes Alberta already measures, including employment, job relatedness, graduate satisfaction, and skills relevance (Government of Alberta, n.d.).
 
@@ -68,7 +68,7 @@ Universities Canada. (2024, October 21). How work-integrated learning could boos
 
 
 
-### 6. Channels
+### 5. Channels
 
 AIVisor could reach students through:
 
@@ -80,7 +80,7 @@ AIVisor could reach students through:
 - Social media
 - Hackathons and student innovation events
 
-### 7. Revenue Streams
+### 6. Revenue Streams
 
 Possible future revenue models include:
 
@@ -90,7 +90,7 @@ Possible future revenue models include:
 - Institutional subscriptions for student support services
 - Career preparation tools for co-op and internship programs
 
-### 8. Key Metrics
+### 7. Key Metrics
 
 AIVisor’s success can be measured by:
 
@@ -101,13 +101,13 @@ AIVisor’s success can be measured by:
 - Student satisfaction with their roadmap
 - Repeat usage over time
 
-### 9. Competitive Advantage
+### 8. Competitive Advantage
 
 AIVisor is different because it is not just a chatbot or a basic course planner. It combines academic roadmaps, soft-skill development, program switching support, and career preparation in one place.
 
 It is also built around real student pain points: confusion, scattered resources, overloaded advisors, and uncertainty about the future. By connecting students to trusted resources like ALIS and Transfer Alberta, AIVisor gives guidance that feels both personalized and practical.
 
-### 10. Future Opportunities
+### 9. Future Opportunities
 
 In the future, AIVisor could expand by adding:
 
